@@ -30,5 +30,5 @@ This project demonstrates how single nucleotide changes may influence protein se
 
 ## 📸 ClinVar Output
 
-![ClinVar Output](clinVar_screenshots/clinvar_output)
-![ClinVar Output](clinVar_screenshots/clinvar_output)
+![ClinVar Output](clinVar_screenshots/clinvar_output.png)
+![ClinVar Output](clinVar_screenshots/clinvar_output_1.png)
